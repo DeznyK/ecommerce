@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"Magnify": {
+			"url": "https://mcp.magnific.com",
+			"type": "http"
+		}
+	}
+}
